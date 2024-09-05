@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Percentual
+comment1.params=faturamentoEstado\ faturamentoTotal
+comment1.target=double\ percentual(double,\ double)
+numComments=2
